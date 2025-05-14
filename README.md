@@ -1,6 +1,15 @@
 # Cascaded-and-Upgradable-Smart-Contracts
 Cascaded and Upgradable Smart Contracts for Blockchain-Aided Construction Business Process Management
 
+## USC and CSCs' examples
+### USC
+- [DataSmartContract.sol](https://github.com/XulingYe/Cascaded-and-Upgradable-Smart-Contracts/blob/main/Scenario%202%20-%20Construction%20payment%20automation/Proposed%20Solution%20(New)/DataSmartContract.sol)
+### CSCs
+- Scenario 1: [BIMDesignCase.sol](https://github.com/XulingYe/Cascaded-and-Upgradable-Smart-Contracts/blob/main/Scenario%201%20-%20BIM-based%20design%20collaboration/BIMDesignCase.sol)
+- Scenario 2: [UpgradablePaymentV1.sol](https://github.com/XulingYe/Cascaded-and-Upgradable-Smart-Contracts/blob/main/Scenario%202%20-%20Construction%20payment%20automation/Proposed%20Solution%20(New)/UpgradablePaymentV1.sol)
+- Scenario 2: [UpgradablePaymentV1.sol](https://github.com/XulingYe/Cascaded-and-Upgradable-Smart-Contracts/blob/main/Scenario%202%20-%20Construction%20payment%20automation/Proposed%20Solution%20(New)/UpgradablePaymentV2.sol)
+- Automated generate CSCs: https://github.com/XulingYe/SmartProcess_SmartContractGenerator
+
 ## License
 
 This project is licensed under a **Non-Commercial License** (adapted from MIT License). You are free to use, modify, and distribute the software, but **only for non-commercial purposes**. Commercial use is prohibited, including selling, sublicensing, or incorporating this software into proprietary software.
