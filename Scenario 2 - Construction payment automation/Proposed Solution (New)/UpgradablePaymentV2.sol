@@ -1,4 +1,14 @@
-// SPDX-License-Identifier: GPL-3.0
+/**
+ *Submitted for verification at Etherscan.io on 2023-11-28
+*/
+
+/**
+ *Submitted by Xuling Ye for verification at Etherscan.io on 2023-11-28
+*Deployed to be executed by DataSmartContract at 0x3C7Dc8D92aC4B98A5F5C54d49d170dae90BD50A7
+*/
+/*
+Website : https://xulingye.github.io/
+*/// SPDX-License-Identifier: GPL-3.0
 pragma solidity ^0.8.19;
 
 contract UpgradablePaymentV2 {
