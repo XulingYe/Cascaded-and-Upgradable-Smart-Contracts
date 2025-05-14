@@ -7,7 +7,7 @@ Cascaded and Upgradable Smart Contracts for Blockchain-Aided Construction Busine
 ### CSCs
 - Scenario 1: [BIMDesignCase.sol](https://github.com/XulingYe/Cascaded-and-Upgradable-Smart-Contracts/blob/main/Scenario%201%20-%20BIM-based%20design%20collaboration/BIMDesignCase.sol)
 - Scenario 2: [UpgradablePaymentV1.sol](https://github.com/XulingYe/Cascaded-and-Upgradable-Smart-Contracts/blob/main/Scenario%202%20-%20Construction%20payment%20automation/Proposed%20Solution%20(New)/UpgradablePaymentV1.sol)
-- Scenario 2: [UpgradablePaymentV1.sol](https://github.com/XulingYe/Cascaded-and-Upgradable-Smart-Contracts/blob/main/Scenario%202%20-%20Construction%20payment%20automation/Proposed%20Solution%20(New)/UpgradablePaymentV2.sol)
+- Scenario 2: [UpgradablePaymentV2.sol](https://github.com/XulingYe/Cascaded-and-Upgradable-Smart-Contracts/blob/main/Scenario%202%20-%20Construction%20payment%20automation/Proposed%20Solution%20(New)/UpgradablePaymentV2.sol)
 - Automated generate CSCs (Code published): https://github.com/XulingYe/SmartProcess_SmartContractGenerator
 
 
